@@ -1,6 +1,6 @@
 <h1 align="center">Jambo!</h1>
 
-Joseph Kariuki here, a geospatial engineer turned software engineer from Naorobi, Kenya 🇰🇪
+Joseph Kariuki here, a geospatial engineer turned software engineer from Nairobi, Kenya 🇰🇪
 
 I like utilizing Python, JavaScript, and SQL to create effective solutions for challenging issues. I am motivated by the desire to provide significant solutions that enhance the internet in whatever manner I can.
 
