@@ -23,8 +23,7 @@ I like utilizing Python, JavaScript, and SQL to create effective solutions for c
 ## 📫 How to reach me
 
 - [My Website](https://josephkariuki.com/)
-- [Twitter](https://twitter.com/jkariscodes)
-- [LinkedIn](https://www.linkedin.com/in/josephkariuki/)
+- [Socials](https://linktr.ee/josephkariuki)
 
 ## 📝 My latest blog posts
 
