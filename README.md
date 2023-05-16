@@ -36,3 +36,13 @@ I like utilizing Python, JavaScript, and SQL to create effective solutions for c
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=jkariscodes&style=flat-square)
+
+## 👨‍💻 Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkariscodes&show_icons=true&theme=dracula" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkariscodes&layout=compact" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
