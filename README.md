@@ -8,11 +8,7 @@ I like utilizing Python, JavaScript, and SQL to create effective solutions for c
 
 - 🌱 Built and have been maintaining [my website](https://josephkariuki.com/) where I ocassionally write blog posts
 
-- 🌏 I am occasionally active within the tech community on Twitter and LinkedIn platforms
-
 - 💬 Ping me about **Geographic Information Systems, Python, Django, System Design, Docker, Web Development**
-
-- ⚡ When not building/coding I like to read inspirational books and taking solo walks, walking the talk with my thoughts
 
 - 📺 I also have a [YouTube channel](https://www.youtube.com/@kariscodes) where i ramble about developing solutions in Geographic Information Systems, and web development using Python/Django
 
