@@ -51,7 +51,7 @@ I am a software developer, content creator and geospatial engineer passionate ab
 ![](https://komarev.com/ghpvc/?username=jkariscodes&style=flat-square)
 
 ## 👨‍💻 Github Stats
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkariscodes&theme=algolia) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkariscodes&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkariscodes&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkariscodes&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkariscodes&theme=algolia) 
