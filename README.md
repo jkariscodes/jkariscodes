@@ -51,13 +51,10 @@ I am a software developer, content creator and geospatial engineer passionate ab
 ![](https://komarev.com/ghpvc/?username=jkariscodes&style=flat-square)
 
 ## 👨‍💻 Github Stats
-                  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkariscodes&show_icons=true&theme=dracula&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jkariscode's GitHub stats" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkariscodes&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkariscodes&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkariscodes&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkariscodes&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkariscodes&theme=algolia&utcOffset=3) 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkariscodes&layout=compact&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-
-<a href="http://www.github.com/jkariscodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jkariscodes&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
+---
