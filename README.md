@@ -42,8 +42,6 @@ I am a software developer, content creator and geospatial engineer passionate ab
 - [Virtualenvwrapper and Python Virtual Environments](https://dev.to/jkariukidev/virtualenvwrapper-python-virtual-environments-3fj7)
 - [Python Libraries for Geospatial 2](https://josephkariuki.com/python-libraries-for-geospatial-2-f28e37e2/)
 - [Python Libraries for Geospatial](https://josephkariuki.com/python-libraries-for-geospatial-85f44b52/)
-- [Bridging GIS and Tech](https://josephkariuki.com/bridging-gis-and-tech-7f364c23/)
-- [Open Source GIS](https://josephkariuki.com/open-source-gis-348d24b5/)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://josephkariuki.com/articles/)
 
