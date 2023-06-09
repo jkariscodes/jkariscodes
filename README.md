@@ -40,9 +40,9 @@ I am a software developer, content creator and geospatial engineer passionate ab
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Development Setup](https://josephkariuki.com/my-development-setup-6142412e/)
 - [Virtualenvwrapper and Python Virtual Environments](https://dev.to/jkariukidev/virtualenvwrapper-python-virtual-environments-3fj7)
 - [Python Libraries for Geospatial 2](https://josephkariuki.com/python-libraries-for-geospatial-2-f28e37e2/)
-- [Python Libraries for Geospatial](https://josephkariuki.com/python-libraries-for-geospatial-85f44b52/)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://josephkariuki.com/articles/)
 
