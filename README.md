@@ -12,7 +12,7 @@ I am a software developer, content creator and geospatial engineer passionate ab
 
 - 🔭 Currently working as a freelance software developer
 
-- 🌱 Writing from time to time on [my website](https://josephkariuki.com/articles/)
+- 🌱 Writing from time to time on [my website](https://josephkariuki.com/articles/) and [medium](https://jkariukidev.medium.com)
 
 - 💬 Ping me about **Geographic Information Systems, Python, Django, System Design, Docker, Web Development**
 
@@ -40,9 +40,9 @@ I am a software developer, content creator and geospatial engineer passionate ab
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I stumbled into Python Programming](https://jkariukidev.medium.com/how-i-stumbled-into-python-programming-9d65ee405dc5)
 - [My Development Setup](https://josephkariuki.com/my-development-setup-6142412e/)
 - [Virtualenvwrapper and Python Virtual Environments](https://dev.to/jkariukidev/virtualenvwrapper-python-virtual-environments-3fj7)
-- [Python Libraries for Geospatial 2](https://josephkariuki.com/python-libraries-for-geospatial-2-f28e37e2/)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://josephkariuki.com/articles/)
 
