@@ -8,7 +8,7 @@
 
 ---
 
-I am a software developer, content creator and geospatial engineer passionate about helping people learn web development and mapping. I like utilizing Python, JavaScript, and SQL to create effective solutions for challenging issues. I am motivated by the desire to provide significant solutions that enhance the internet in whatever manner I can.
+I am a software developer, content creator, and geospatial engineer passionate about helping people learn web development and mapping. I like utilizing Python, JavaScript, and SQL to create effective solutions for challenging issues. I am motivated by the desire to provide significant solutions that enhance the Internet in whatever manner I can.
 
 - 🔭 Currently working as a freelance software developer
 
@@ -40,9 +40,9 @@ I am a software developer, content creator and geospatial engineer passionate ab
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python Programming In 2023](https://josephkariuki.com/how-to-learn-python-in-2023-a3f74544/)
 - [How I stumbled into Python Programming](https://jkariukidev.medium.com/how-i-stumbled-into-python-programming-9d65ee405dc5)
 - [My Development Setup](https://josephkariuki.com/my-development-setup-6142412e/)
-- [Virtualenvwrapper and Python Virtual Environments](https://dev.to/jkariukidev/virtualenvwrapper-python-virtual-environments-3fj7)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://josephkariuki.com/articles/)
 
