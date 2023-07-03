@@ -40,6 +40,7 @@ I am a software developer, content creator, and geospatial engineer passionate a
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented Programming in Python](https://josephkariuki.com/object-oriented-programming-in-python-1d5727c9/)
 - [Python Fundamentals](https://josephkariuki.com/python-fundamentals-85634784/)
 - [Learn Python Programming In 2023](https://josephkariuki.com/how-to-learn-python-in-2023-a3f74544/)
 - [How I stumbled into Python Programming](https://jkariukidev.medium.com/how-i-stumbled-into-python-programming-9d65ee405dc5)
