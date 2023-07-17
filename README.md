@@ -15,8 +15,6 @@ I am a software developer, content creator, and geospatial engineer passionate a
 
 - 🌱 Writing from time to time on [my website](https://josephkariuki.com/articles/) and [medium](https://jkariukidev.medium.com)
 
-- 💬 Ping me about **Geographic Information Systems, Python, Django, System Design, Docker, Web Development**
-
 ---
 
 ## 🛠️ Languages and Tools
