@@ -39,6 +39,7 @@ I am a software developer, content creator, and geospatial engineer passionate a
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Python Virtual Environments using virtualenvwrapper](https://medium.com/@jkariukidev/managing-python-virtual-environments-using-virtualenvwrapper-9c6ebde27ee4)
 - [Managing Python Virtual Environments using virtualenv](https://jkariukidev.medium.com/managing-python-virtual-environments-using-virtualenv-6bf22351b7a)
 - [Python Virtual Environments](https://josephkariuki.com/python-virtual-environments-8d55822b/)
 - [Introduction to Django](https://josephkariuki.com/introduction-to-django-e5f85ad0/)
