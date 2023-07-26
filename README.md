@@ -26,10 +26,10 @@ I am a software developer, content creator, and geospatial engineer passionate a
 ## 📝 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Pre-Deployment Configurations for Django](https://youtu.be/uhvbNKWHz5E)
 - [Deploying Django to Heroku](https://www.youtube.com/watch?v=KjYjRvDN63k)
 - [Separation of Local and Production in Django](https://www.youtube.com/watch?v=6WkaonDbLPk)
 - [Reading GeoNode data using QGIS](https://www.youtube.com/watch?v=QqNZVDByyWo)
-- [GeoNode 4.x features](https://www.youtube.com/watch?v=nH7x63rbArM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ?sub_confirmation=1)
