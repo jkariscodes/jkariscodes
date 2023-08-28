@@ -28,7 +28,6 @@ I am a software developer, content creator, and geospatial engineer passionate a
 - [Deploying Django on Render](https://youtu.be/BfZATK1n6pQ)
 - [Deploying Django on Railway](https://youtu.be/yfw12D6TyJU)
 - [Pre-Deployment Configurations for Django](https://youtu.be/uhvbNKWHz5E)
-- [Deploying Django to Heroku](https://www.youtube.com/watch?v=KjYjRvDN63k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ?sub_confirmation=1)
@@ -38,11 +37,10 @@ I am a software developer, content creator, and geospatial engineer passionate a
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set Up Python Development Environment on Linux](https://josephkariuki.com/creating-python-development-environment-on-linux-7bd95dad/)
 - [Managing Python Virtual Environments using virtualenvwrapper](https://medium.com/@jkariukidev/managing-python-virtual-environments-using-virtualenvwrapper-9c6ebde27ee4)
 - [Managing Python Virtual Environments using virtualenv](https://jkariukidev.medium.com/managing-python-virtual-environments-using-virtualenv-6bf22351b7a)
 - [Python Virtual Environments](https://josephkariuki.com/python-virtual-environments-8d55822b/)
-- [Introduction to Django](https://josephkariuki.com/introduction-to-django-e5f85ad0/)
-- [Object-Oriented Programming in Python](https://josephkariuki.com/object-oriented-programming-in-python-1d5727c9/)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://josephkariuki.com/articles/)
 
