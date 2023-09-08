@@ -25,9 +25,9 @@ I am a software developer, content creator, and geospatial engineer passionate a
 ## 📝 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GeoDjango & React Tutorial #1](https://youtu.be/BJj_RLYywRQ?si=H4SDLjhWB18h6648)
 - [Deploying Django on Render](https://youtu.be/BfZATK1n6pQ)
 - [Deploying Django on Railway](https://youtu.be/yfw12D6TyJU)
-- [Pre-Deployment Configurations for Django](https://youtu.be/uhvbNKWHz5E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ?sub_confirmation=1)
@@ -40,7 +40,6 @@ I am a software developer, content creator, and geospatial engineer passionate a
 - [Set Up Python Development Environment on Linux](https://josephkariuki.com/creating-python-development-environment-on-linux-7bd95dad/)
 - [Managing Python Virtual Environments using virtualenvwrapper](https://medium.com/@jkariukidev/managing-python-virtual-environments-using-virtualenvwrapper-9c6ebde27ee4)
 - [Managing Python Virtual Environments using virtualenv](https://jkariukidev.medium.com/managing-python-virtual-environments-using-virtualenv-6bf22351b7a)
-- [Python Virtual Environments](https://josephkariuki.com/python-virtual-environments-8d55822b/)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://josephkariuki.com/articles/)
 
